@@ -1,4 +1,3 @@
-# telco-churn-analysis
 # Telco Customer Churn Analysis
 
 ## Проблема
