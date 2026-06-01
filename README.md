@@ -42,7 +42,7 @@ Recall пріоритизований над accuracy — для бізнесу 
 ## Файли
 - `model.py` — повний код очистки даних і моделі
 - Power BI дашборд — скріншот нижче
-- 'analysis.sql' - аналіз чинників відтоку клієнтів
+- `analysis.sql` - аналіз чинників відтоку клієнтів
 
 ## Дашборд
 <img width="1371" height="774" alt="dashboard" src="https://github.com/user-attachments/assets/c894c892-c530-445c-b92a-3a4fa36c90e1" />
