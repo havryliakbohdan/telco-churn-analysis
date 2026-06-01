@@ -45,4 +45,5 @@ Recall пріоритизований над accuracy — для бізнесу 
 - Power BI дашборд — скріншот нижче
 
 ## Дашборд
-![Dashboard](dashboard.png)
+<img width="1371" height="774" alt="dashboard" src="https://github.com/user-attachments/assets/c894c892-c530-445c-b92a-3a4fa36c90e1" />
+
