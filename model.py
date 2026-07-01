@@ -70,3 +70,4 @@ predictions = pd.DataFrame({
 
 predictions = predictions.sort_values('ймовірність_відтоку', ascending=False)
 print(predictions.head(10))
+print("OK")
